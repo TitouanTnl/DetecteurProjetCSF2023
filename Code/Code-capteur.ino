@@ -44,7 +44,6 @@ void loop() {
 
   if (distance<30) {
     Serial.println("Mouvement detecté");
-    
     leds[1] = CRGB(lum,0,0);
     leds[2] = CRGB(lum,0,0);
     leds[3] = CRGB(lum,0,0);
@@ -72,7 +71,6 @@ void loop() {
   
   if (varTimer++ > 125) { 
     varTimer = 0; // On recommence un nouveau cycle
-    
     leds[1] = CRGB(0,0,0);
     leds[2] = CRGB(0,0,0);
     leds[3] = CRGB(0,0,0);
@@ -106,8 +104,6 @@ void loop() {
     delay(100);
   }
 }
-
-
 
 // Definition de la fonction qui calcul la distance mesurée par le capteur ultrason
 int calculDistance(){ 
