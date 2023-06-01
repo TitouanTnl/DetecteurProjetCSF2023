@@ -13,4 +13,19 @@ Le capteur a pour premiere utilisation de detecter la fumée et les gaz nocifs t
 - Capteur de gaz : MQ-2
 - Un ordinateur avec Arduino IDE
 
+# Branchements
+## Capteur à ultrason
+Il y a 4 fils a brancher pour ce capteur :
+- VCC -> V_IN
+- GND -> GND
+- Trig -> A1
+- Echo -> A2
+
+## Capteur de fumée
+Il y a 3 fils pour ce capteur :
+- VCC -> V_IN
+- GND -> GND
+- DO -> A3
+
+
 ![](https://github.com/TitouanTnl/DetecteurProjetCSF2023/blob/main/Doc/IMG.jpg)
