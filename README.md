@@ -6,6 +6,6 @@ Ce projet est réalisé dans le cadre du module Communication Sans Fil en Licenc
 - Carte UCA
 - Breadboard
 - Fils de connection
-- Capteur à ultrason HC-SR04
-- Capteur de gaz MQ-2
+- Capteur à ultrason: HC-SR04
+- Capteur de gaz: MQ-2
 - Un ordinateur avec Arduino IDE
