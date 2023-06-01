@@ -12,3 +12,5 @@ Le capteur a pour premiere utilisation de detecter la fumée et les gaz nocifs t
 - Capteur à ultrason : HC-SR04
 - Capteur de gaz : MQ-2
 - Un ordinateur avec Arduino IDE
+
+![](https://github.com/TitouanTnl/DetecteurProjetCSF2023/blob/main/Doc/IMG.jpg)
